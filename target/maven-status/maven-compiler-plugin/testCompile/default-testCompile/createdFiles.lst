@@ -1,0 +1,5 @@
+com/medcare/security/JwtProviderTest.class
+com/medcare/service/PatientServiceTest.class
+com/medcare/controller/AuthControllerTest.class
+com/medcare/controller/PatientControllerTest.class
+com/medcare/service/AuthServiceTest.class
